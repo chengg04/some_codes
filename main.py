@@ -17,7 +17,7 @@ def setup_data():
     all_data['pwd'] = pwd
     all_data['google_drive_path'] = '/Volumes/GoogleDrive/My Drive/Projects_sync/Wind_prediction_update'
 
-    all_data['task'] = 'keras_bucket' # pca | predict | plot | get_data | normality_test | keras_bucket
+    all_data['task'] = 'get_data' # pca | predict | plot | get_data | normality_test | keras_bucket
     all_data['days'] = 20
     all_data['ml_algo'] = 'RF' # RF CLA
     all_data['random_state_val'] = 42
