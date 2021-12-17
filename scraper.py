@@ -9,7 +9,7 @@ import util
 import pdb
 
 def historical_data(all_data):
-    api_key = "9e790c682f8b146e78ed45dd63ee7ddd"
+    api_key = "" # Ask Cheng/Joyee for the key.
     lat = "40.714272"
     lon = "-74.005966"
     id = "5122432"
